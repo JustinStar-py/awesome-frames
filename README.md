@@ -80,7 +80,7 @@ Open Frames is a standard for Frames that work across ecosystems
   - [Demo](https://warpcast.com/sathaxe/0x5f6cdaed)
 - [Text Input example](https://github.com/horsefacts/echo-the-dolphin)
 - [Akinator Frame](https://github.com/therealharpaljadeja/akinator-farcaster-frame/tree/main) [Demo](https://warpcast.com/harpaljadeja/0xa4ff1e6b)
-- [Onframe Chess](https://github.com/fiveoutofnine/onframe-chess) [Demo](onframe-chess.vercel.app)
+- [Onframe Chess](https://github.com/fiveoutofnine/onframe-chess) [Demo](https://onframe-chess.vercel.app)
 - [Based adventure](https://github.com/seangeng/based-adventure)
 - [Snake game](https://github.com/Joetoledano/snakecaster)
 - [RSVP to events](https://github.com/therealharpaljadeja/farcaster-event-frame)
